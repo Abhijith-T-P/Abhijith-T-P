@@ -4,8 +4,7 @@
 - 📚 I know python,c,c++,html,css,java script,java,Ajax,PHP,Mysql,Linux,Database Administration 
 <!--💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me  - abhijithtp2003@gmail.com
--                      - www.linkedin.com/in/abhijith-t-p-186580236
--                  
+               
 
 <!---
 Abhijith-T-P/Abhijith-T-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
