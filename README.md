@@ -83,10 +83,9 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
 
-<br/>  
+
+
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=llupquqnygmwagt09osk1pvfm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
 
