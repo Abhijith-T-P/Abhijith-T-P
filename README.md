@@ -5,9 +5,7 @@
 <!--💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me  - abhijithtp2003@gmail.com
 
-  <div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 <br/>  
