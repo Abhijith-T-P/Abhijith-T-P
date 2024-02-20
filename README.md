@@ -64,23 +64,6 @@
 </td></tr></table>  
 
 
-</div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijith-t-p&layout=compact&theme=" alt=abhijith-t-p />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijith-t-p&show_icons=true&locale=en&theme=" alt="abhijith-t-p" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijith-t-p&theme=" alt="abhijith-t-p" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/abhijith-t-p">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhijith-t-p&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhijith-t-p&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijith-t-p&theme=2077" height="180em" />
-  </br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhijith-t-p&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijith-t-p&theme=2077" height="180em" />
-</div>
 
 
 
