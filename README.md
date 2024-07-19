@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abhijith-T-P
 - 👀 I’m interested in programming ,web & app developmenr 
-- 🌱 I’m currently doing  Bachelors’s in Computer Application with specialization in cyber security and ethical hacking
 
 <!--💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me  - abhijithtp2003@gmail.com
