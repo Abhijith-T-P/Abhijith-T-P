@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Abhijith-T-P
 - 👀 I’m interested in programming ,web & app developmenr 
 
-<!--💞️ I’m looking to collaborate on ...-->
-- 📫 How to reach me  - abhijithtp2003@gmail.com
 
 
   
